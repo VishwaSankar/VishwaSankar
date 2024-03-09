@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishwa</h1>
+<h1 align="center">Hey 👋, I'm Vishwa Sankar!</h1>
 <h3 align="center">I'm a passionate and creative Full Stack Developer with a focus on the MERN stack. I love turning ideas into reality through code and solving real-world problems. Currently, I'm exploring the Horizons of MERN/MEAN stack and new scopes of AI and Machine Learning.</h3>
 
 
